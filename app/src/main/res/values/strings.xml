@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyCIS 5.0</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">#cisatncu</string>
+    <string name="nav_header_subtitle">http://cis.ncu.edu.jm</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="dir_head">Faculty and Staff Directory</string>
+    <string name="menu_home">Menu Home</string>
+    <string name="menu_gallery">Menu Gallery</string>
+    <string name="menu_slideshow">Menu Slideshow</string>
+
+    <string-array name="faculty">
+        <item>GLENN, Sheldon</item>
+        <item>GRAHAM, Hamlet</item>
+        <item>MAGBEGOR, Oche</item>
+        <item>MITCHELL, Damion</item>
+        <item>NARAYANA, Melvin</item>
+        <item>OSBORNE, Henry</item>
+        <item>SMALL, E. Beverley</item>
+        <item>SMITH, Halzen</item>
+        <item>TOOMA, Keron</item>
+    </string-array>
+
+    <string name="fsName">Faculty/Staff Name</string>
+    <string name="fsJob">Faculty/Staff Job Title</string>
+    <string name="fsTel">Faculty/Staff Phone</string>
+    <string name="fsMail">Faculty/Staff Email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
